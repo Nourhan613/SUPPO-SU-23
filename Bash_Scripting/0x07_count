@@ -1,0 +1,4 @@
+Question 7
+Write a script that counts the number of dirs in the variable PATH.
+
+Ans: find . -type d | wc -l
