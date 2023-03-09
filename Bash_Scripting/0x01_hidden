@@ -1,0 +1,4 @@
+Question 1
+Write a script to display current directory contents, including hidden files as well as their permissions.
+
+Ans: ls -l
