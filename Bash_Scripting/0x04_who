@@ -1,4 +1,4 @@
-Question 4
-Write a script that prints  the username of the current user.
+#!/bin/bash
 
-Ans: Whoami
+# prints  the username of the current user.
+whoami
