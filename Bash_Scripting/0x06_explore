@@ -1,4 +1,0 @@
-Question 6
-Write a script that displays the first 11 lines in the file /etc/passwd containing the word "root".
-
-Ans: head -n 11 /etc/passwd 
