@@ -1,5 +1,5 @@
-Question 3
-Write a script that adds execute permissions to the user as well as the group user , else read permission only, to the file 'hello'. Use numeric notation.
+#!/bin/bash
 
-Ans: adds execute permissions => chmod 777 file
-     read permission only => chmod 444 hello
+# Adds execute permissions to the user as well as the group user , else read permission only, to the file 'hello'. Use numeric notation.
+chmod 777 file
+chmod 444 hello
